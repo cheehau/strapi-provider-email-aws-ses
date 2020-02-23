@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-aws-ses",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "repository": "git@github.com:cheehau/strapi-provider-email-aws-ses.git",
   "author": "solve.it2008@gmail.com",
