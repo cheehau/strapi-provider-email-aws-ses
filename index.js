@@ -51,11 +51,11 @@ module.exports = {
         label: 'Default Reply-To',
         type: 'text',
       },
-      accessKey: {
+      accessKeyId: {
         label: 'Amazon Access key ID',
         type: 'text',
       },
-      secret: {
+      secretAccessKey: {
         label: 'Amazon Secret access key',
         type: 'text',
       },
